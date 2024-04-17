@@ -3,8 +3,8 @@
   "type": "raw-package",
   "blockId": "wRNejlp9USDfKUi1Srl5H",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/R1.git",
+    "ssh": "git@github.com:grgshiji/R1.git",
     "branch": "block_R1"
   },
   "parentBlockIDs": [],
