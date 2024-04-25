@@ -1,6 +1,6 @@
 {
   "name": "R1",
-  "type": "raw-package",
+  "type": "containerized",
   "blockId": "wRNejlp9USDfKUi1Srl5H",
   "source": {
     "https": "https://github.com/grgshiji/R1.git",
